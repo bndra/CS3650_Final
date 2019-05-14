@@ -18,7 +18,7 @@ IBMQ.load_accounts()
 
 
 import qiskit as qk
-#IBMQ.save_account('12da508caacf7b9de64e068718a6a931121afc5f72484ebce8d7a1b9bac19512227dce2afda6b0d2cbfb1e2e49d7ba06266a899e25c39a306a6c0d4be3b7d2c4')
+#IBMQ.save_account('auth key goes here')
 
 
 # In[3]:
